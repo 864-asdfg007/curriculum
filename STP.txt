@@ -49,5 +49,9 @@ Switch1　F0/1　DP
 Switch2：20481
 Switch4：8193
 
-Switch4　E0/1　BP
-Switch2　F0/2　DP
+
+指定ポートが最小指定元IDなので、
+Switch2：20481
+Switch4：8193
+Switch2　F0/1（BP）
+Switch4　E0/1（DP）
